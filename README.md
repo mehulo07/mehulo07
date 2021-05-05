@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mehul Makwana @mehulo07
+- 👋 Hi, I’m Mehul Makwana ,@mehulo07
 - 👀 I’m interested in Java and Spring
 - 🌱 I’m currently learning Java 11 , Spring , React JS , Python 
-- 💞️ I’m looking to collaborate on Spring based project with other developer
+- 💞️ I’m looking to collaborate on Spring based project with other developers
 - 📫 How to reach me mehulmakwana339@gmail.com
 
 <!---
